@@ -40,6 +40,10 @@
       <style:paragraph-properties/>
       <style:text-properties/>
     </style:style>
+    <style:style style:name="P4" style:family="paragraph" style:parent-style-name="layout3">
+      <style:paragraph-properties fo:text-align="start" fo:break-before="page"/>
+      <style:text-properties/>
+    </style:style>
   </office:automatic-styles>
   <office:body>
     <office:text>
@@ -56,22 +60,7 @@
       <text:p text:style-name="P1"><text:ruby text:style-name="Ru1"><text:ruby-base>海老原</text:ruby-base><text:ruby-text text:style-name="layout6">えびはら</text:ruby-text></text:ruby></text:p>
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P1"><text:span text:style-name="T5">傍点</text:span></text:p>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
-      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P4"/>
       <text:p text:style-name="P3">２ページ目</text:p>
     </office:text>
   </office:body>
