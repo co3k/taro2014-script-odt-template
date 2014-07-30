@@ -8,31 +8,34 @@
     </style:style>
     <style:style style:name="P1" style:family="paragraph">
       <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="T2" style:family="text">
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="P2" style:family="paragraph">
       <style:paragraph-properties fo:text-align="end"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="T3" style:family="text">
-      <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold"/>
+      <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="Ru1" style:family="ruby">
       <style:ruby-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:ruby-align="distribute-letter" style:ruby-position="above"/>
     </style:style>
     <style:style style:name="T5" style:family="text">
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:text-emphasize="accent above"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:text-emphasize="accent above" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="T6" style:family="text">
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="5.2pt" fo:font-size="5.2pt"/>
     </style:style>
     <style:style style:name="P3" style:family="paragraph">
       <style:paragraph-properties/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="P4" style:family="paragraph">
       <style:paragraph-properties fo:text-align="start" fo:break-before="page"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="P5" style:family="paragraph">
       <style:paragraph-properties fo:text-align="start" fo:margin-left="2.256cm" fo:margin-right="0cm" fo:text-indent="0cm" style:vertical-align="middle"/>
@@ -51,7 +54,7 @@
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P5">明朝体小さめ</text:p>
       <text:p text:style-name="P1"/>
-      <text:p text:style-name="P1"><text:ruby text:style-name="Ru1"><text:ruby-base>海老原</text:ruby-base><text:ruby-text text:style-name="layout6">えびはら</text:ruby-text></text:ruby></text:p>
+      <text:p text:style-name="P1"><text:ruby text:style-name="Ru1"><text:ruby-base>海老原</text:ruby-base><text:ruby-text text:style-name="T6">えびはら</text:ruby-text></text:ruby></text:p>
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P1"><text:span text:style-name="T5">傍点</text:span></text:p>
       <text:p text:style-name="P4"/>

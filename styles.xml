@@ -56,34 +56,8 @@
       </text:outline-level-style>
     </text:outline-style>
     <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
-    <style:style style:name="layout1" style:display-name="layout3" style:family="text">
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="Times New Roman" fo:letter-spacing="0.005cm" style:font-size-asian="5.2pt" fo:font-size="5.2pt"/>
-    </style:style>
-    <style:style style:name="layout2" style:display-name="Standard(OpenOffice)" style:parent-style-name="Standard" style:family="paragraph">
-      <style:paragraph-properties fo:text-align="start" style:vertical-align="middle"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="Times New Roman"/>
-    </style:style>
-    <style:style style:name="layout3" style:display-name="layout2" style:parent-style-name="Standard" style:family="paragraph">
-      <style:paragraph-properties fo:text-align="start" style:line-height-at-least="0.364cm" style:vertical-align="middle"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="Times New Roman" fo:letter-spacing="0.005cm" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
-    </style:style>
-    <style:style style:name="Standard" style:family="paragraph">
-      <style:paragraph-properties/>
-      <style:text-properties/>
-    </style:style>
-    <style:style style:name="layout5" style:parent-style-name="Standard" style:family="paragraph">
-      <style:paragraph-properties/>
-      <style:text-properties/>
-    </style:style>
-    <style:default-style style:family="paragraph">
-      <style:paragraph-properties fo:text-align="justify" style:tab-stop-distance="1.496cm" style:vertical-align="middle" fo:hyphenation-ladder-count="no-limit" style:line-break="strict" style:punctuation-wrap="simple" style:text-autospace="ideograph-alpha" style:line-height-at-least="0.600cm"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="Times New Roman" fo:letter-spacing="0.003cm" style:font-size-asian="10.5pt" fo:font-size="10.5pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-    </style:default-style>
-    <style:style style:name="layout6" style:family="text">
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="5.2pt" fo:font-size="5.2pt"/>
-    </style:style>
-    <text:notes-configuration text:note-class="footnote" text:default-style-name="layout5" text:citation-style-name="" text:citation-body-style-name="" text:master-page-name="" style:num-prefix="" style:num-suffix="" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
-    <text:notes-configuration text:note-class="endnote" text:default-style-name="layout5" text:citation-style-name="" text:citation-body-style-name="" text:master-page-name="" style:num-prefix="" style:num-suffix="" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
+    <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
+    <text:notes-configuration text:note-class="endnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
   </office:styles>
   <office:automatic-styles>
     <style:page-layout style:name="pm1" style:page-usage="mirrored">
