@@ -20,9 +20,6 @@
     <style:style style:name="T3" style:family="text">
       <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold"/>
     </style:style>
-    <style:style style:name="T4" style:family="text">
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="8.0pt" fo:font-size="8.0pt"/>
-    </style:style>
     <style:style style:name="Ru1" style:family="ruby">
       <style:ruby-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:ruby-align="distribute-letter" style:ruby-position="above"/>
     </style:style>
@@ -37,6 +34,10 @@
       <style:paragraph-properties fo:text-align="start" fo:break-before="page"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
+    <style:style style:name="P5" style:family="paragraph" style:parent-style-name="layout4">
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="2.256cm" fo:margin-right="0cm" fo:text-indent="0cm" style:vertical-align="middle"/>
+      <style:text-properties fo:letter-spacing="0.003cm" style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="8.0pt" fo:font-size="8.0pt"/>
+    </style:style>
   </office:automatic-styles>
   <office:body>
     <office:text>
@@ -48,7 +49,7 @@
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P1"><text:span text:style-name="T3">ゴシック体太字</text:span>　明朝体普通。</text:p>
       <text:p text:style-name="P1"/>
-      <text:p text:style-name="P1"><text:span text:style-name="T2"><text:tab/></text:span><text:span text:style-name="T4">明朝体小さめ</text:span></text:p>
+      <text:p text:style-name="P5">明朝体小さめ</text:p>
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P1"><text:ruby text:style-name="Ru1"><text:ruby-base>海老原</text:ruby-base><text:ruby-text text:style-name="layout6">えびはら</text:ruby-text></text:ruby></text:p>
       <text:p text:style-name="P1"/>
