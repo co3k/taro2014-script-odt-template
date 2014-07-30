@@ -7,7 +7,7 @@
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="13.0pt" fo:font-size="13.0pt"/>
     </style:style>
     <style:style style:name="P1" style:family="paragraph" style:parent-style-name="layout2">
-      <style:paragraph-properties fo:text-align="start"/>
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
     <style:style style:name="T2" style:family="text">
@@ -47,7 +47,7 @@
       <text:p text:style-name="P1"><text:span text:style-name="T1">太字明朝体サイズ大</text:span></text:p>
       <text:p text:style-name="P2">右寄せ</text:p>
       <text:p text:style-name="P1"/>
-      <text:p text:style-name="P1"><text:span text:style-name="T3">ゴシック体太字</text:span>　明朝体普通。</text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T3">ゴシック体太字</text:span>　明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。明朝体普通。</text:p>
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P5">明朝体小さめ</text:p>
       <text:p text:style-name="P1"/>
