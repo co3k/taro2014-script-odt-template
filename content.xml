@@ -6,14 +6,14 @@
     <style:style style:name="T1" style:family="text">
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="13.0pt" fo:font-size="13.0pt"/>
     </style:style>
-    <style:style style:name="P1" style:family="paragraph" style:parent-style-name="layout2">
+    <style:style style:name="P1" style:family="paragraph">
       <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
     <style:style style:name="T2" style:family="text">
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
-    <style:style style:name="P2" style:family="paragraph" style:parent-style-name="layout2">
+    <style:style style:name="P2" style:family="paragraph">
       <style:paragraph-properties fo:text-align="end"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
@@ -26,15 +26,15 @@
     <style:style style:name="T5" style:family="text">
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:text-emphasize="accent above"/>
     </style:style>
-    <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+    <style:style style:name="P3" style:family="paragraph">
       <style:paragraph-properties/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
-    <style:style style:name="P4" style:family="paragraph" style:parent-style-name="layout3">
+    <style:style style:name="P4" style:family="paragraph">
       <style:paragraph-properties fo:text-align="start" fo:break-before="page"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝"/>
     </style:style>
-    <style:style style:name="P5" style:family="paragraph" style:parent-style-name="layout4">
+    <style:style style:name="P5" style:family="paragraph">
       <style:paragraph-properties fo:text-align="start" fo:margin-left="2.256cm" fo:margin-right="0cm" fo:text-indent="0cm" style:vertical-align="middle"/>
       <style:text-properties fo:letter-spacing="0.003cm" style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="8.0pt" fo:font-size="8.0pt"/>
     </style:style>
