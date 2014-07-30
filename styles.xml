@@ -19,6 +19,44 @@
     <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
     <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
     <text:notes-configuration text:note-class="endnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
+    <style:style style:name="BT1" style:family="text">
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="13.0pt" fo:font-size="13.0pt"/>
+    </style:style>
+    <style:style style:name="BP1" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BT2" style:family="text">
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BP2" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="end"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BT3" style:family="text">
+      <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BRu1" style:family="ruby">
+      <style:ruby-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:ruby-align="distribute-letter" style:ruby-position="above"/>
+    </style:style>
+    <style:style style:name="BT5" style:family="text">
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:text-emphasize="accent above" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BT6" style:family="text">
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="5.2pt" fo:font-size="5.2pt"/>
+    </style:style>
+    <style:style style:name="BP3" style:family="paragraph">
+      <style:paragraph-properties/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BP4" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="start" fo:break-before="page"/>
+      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+    </style:style>
+    <style:style style:name="BP5" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="2.256cm" fo:margin-right="0cm" fo:text-indent="0cm" style:vertical-align="middle"/>
+      <style:text-properties fo:letter-spacing="0.003cm" style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="8.0pt" fo:font-size="8.0pt"/>
+    </style:style>
   </office:styles>
   <office:automatic-styles>
     <style:page-layout style:name="pm1" style:page-usage="mirrored">
