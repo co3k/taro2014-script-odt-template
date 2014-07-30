@@ -44,9 +44,6 @@
   </office:automatic-styles>
   <office:body>
     <office:text>
-      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-      <text:tracked-changes text:track-changes="false"/>
-      <text:user-field-decls/>
       <text:p text:style-name="P1"><text:span text:style-name="T1">太字明朝体サイズ大</text:span></text:p>
       <text:p text:style-name="P2">右寄せ</text:p>
       <text:p text:style-name="P1"/>
