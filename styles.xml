@@ -21,14 +21,18 @@
     <text:notes-configuration text:note-class="endnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
 
     <style:style style:name="base-document-title" style:family="paragraph">
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="13.0pt" fo:font-size="13.0pt"/>
+      <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="13.0pt" fo:font-size="13.0pt"/>
     </style:style>
     <style:style style:name="base-document-author" style:family="paragraph">
       <style:paragraph-properties fo:text-align="end"/>
-      <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
+      <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="13.0pt" fo:font-size="13.0pt"/>
+    </style:style>
+    <style:style style:name="base-section-title-level-1" style:family="paragraph">
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="0cm" style:vertical-align="middle"/>
+      <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="base-paragraph" style:family="paragraph">
-      <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle"/>
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle" fo:line-height="0.520cm"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="base-togaki" style:family="paragraph">
@@ -53,11 +57,11 @@
   </office:styles>
   <office:automatic-styles>
     <style:page-layout style:name="pm1" style:page-usage="mirrored">
-      <style:page-layout-properties fo:page-width="14.850cm" fo:page-height="21.000cm" fo:margin-top="3.000cm" fo:margin-bottom="0cm" fo:margin-left="0.896cm" fo:margin-right="1.500cm" style:writing-mode="tb-rl" style:print-orientation="landscape">
+      <style:page-layout-properties fo:page-width="14.850cm" fo:page-height="21.000cm" fo:margin-top="1.800cm" fo:margin-bottom="0cm" fo:margin-left="1.500cm" fo:margin-right="1.500cm" style:writing-mode="tb-rl" style:print-orientation="landscape">
         <style:footnote-sep style:width="0.018cm" style:distance-before-sep="1.000cm" style:distance-after-sep="0cm" style:adjustment="left" style:rel-width="100%"/>
       </style:page-layout-properties>
       <style:footer-style>
-        <style:header-footer-properties svg:height="3.000cm" fo:margin-top="0cm" style:dynamic-spacing="false"/>
+        <style:header-footer-properties svg:height="1.800cm" fo:margin-top="0cm" style:dynamic-spacing="false"/>
       </style:footer-style>
     </style:page-layout>
     <style:style style:name="T1" style:family="text">
