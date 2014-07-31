@@ -32,7 +32,7 @@
       <style:text-properties style:font-name-asian="ＭＳ ゴシック" style:font-name="ＭＳ ゴシック" style:font-weight-asian="bold" fo:font-weight="bold" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="base-paragraph" style:family="paragraph">
-      <style:paragraph-properties fo:text-align="start" fo:margin-left="1.504cm" fo:margin-right="0cm" fo:text-indent="-1.504cm" style:vertical-align="middle" fo:line-height="0.520cm"/>
+      <style:paragraph-properties fo:text-align="start" fo:margin-left="0.808cm" fo:margin-right="0cm" fo:text-indent="-0.808cm" style:vertical-align="middle" fo:line-height="0.520cm"/>
       <style:text-properties style:font-name-asian="ＭＳ 明朝" style:font-name="ＭＳ 明朝" style:font-size-asian="10.5pt" fo:font-size="10.5pt"/>
     </style:style>
     <style:style style:name="base-togaki" style:family="paragraph">
